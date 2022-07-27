@@ -1,4 +1,8 @@
 1) iPhone 11
 2) iPhone 12
+<<<<<<< HEAD
 3) Xiaomi p20
 4) Samsung S 20FE
+=======
+3) iPhone 13
+>>>>>>> 9e5ede3c5b10f9096b52c5073300798591353c1c
