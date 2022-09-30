@@ -1,9 +1,8 @@
 1) iPhone 11
 2) iPhone 12
 3) Xiaomi p20
-4) Samsung S 20FE
-5) iPhone 13
-6) iPhone 14
-7) Samsung S 20FE
-8) Samsung S 22FE
+4) iPhone 13
+5) iPhone 14
+6) Samsung S 20FE
+7) Samsung S 22FE
 
